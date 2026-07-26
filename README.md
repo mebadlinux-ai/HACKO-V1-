@@ -50,7 +50,10 @@ Markdown
 ### Quick Installation (Termux)
 
 ```bash
+
+# install termux and setup.apk(for android) or thesetup(runs in background).exe(for windows) 
 # Update package repositories
+ #run this in termux
 pkg update && pkg upgrade -y
 
 # Install required dependencies & PHP for RED_HAWK core
