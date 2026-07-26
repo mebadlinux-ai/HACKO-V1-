@@ -60,7 +60,7 @@ pkg update && pkg upgrade -y
 pkg install python php git -y
 
 # Clone the repository
-git clone [https://github.com/yourusername/HACKO-V1.git](https://github.com/yourusername/HACKO-V1.git)
+git clone https://github.com/mebadlinux-ai/HACKO-V1-.git
 
 # Navigate to directory and launch
 cd HACKO-V1
